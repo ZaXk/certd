@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.22.5](https://github.com/fast-crud/fast-crud/compare/v1.22.4...v1.22.5) (2024-11-04)
+
+**Note:** Version bump only for package @fast-crud/fs-admin-antdv4
+
+## [1.22.4](https://github.com/fast-crud/fast-crud/compare/v1.22.3...v1.22.4) (2024-11-04)
+
+### Bug Fixes
+
+* 修复tab change后清空查询表单的bug ([8d7525a](https://github.com/fast-crud/fast-crud/commit/8d7525a747c41fe3fb1f14b92d0e353440ebc8ad))
+
+## [1.22.3](https://github.com/fast-crud/fast-crud/compare/v1.22.2...v1.22.3) (2024-11-01)
+
+### Bug Fixes
+
+* 修复search.formItem配置无效的bug ([e112f03](https://github.com/fast-crud/fast-crud/commit/e112f033a60e142eced129e03b7c3cb96605b3fb))
+
+### Performance Improvements
+
+* editable row 优化添加 ([9e0beb0](https://github.com/fast-crud/fast-crud/commit/9e0beb06470b564d490ec9393afe978f8a66c2fd))
+
 ## [1.22.2](https://github.com/fast-crud/fast-crud/compare/v1.22.1...v1.22.2) (2024-10-24)
 
 **Note:** Version bump only for package @fast-crud/fs-admin-antdv4
